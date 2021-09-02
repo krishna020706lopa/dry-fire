@@ -1,0 +1,23 @@
+html, body {
+  margin-Left: 0px;
+  margin-top:0px;
+  padding: 0;
+  background-color:grey;
+}
+canvas {
+  display: block;
+}
+.menu{
+  display: flex;
+  justify-content:space-between;
+  background-color:#000000;
+  padding:15px;
+  font-size:20px;
+  font-family: sans-serif;
+  font-weight:400;
+  color:#ffffff;
+}
+.grid {
+  margin-Left: 300px;
+  margin-top: 50px;
+}
